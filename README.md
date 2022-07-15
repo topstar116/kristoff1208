@@ -20,8 +20,7 @@
     <thead align="center">
         <tr>
             <td>PotatoPowerClue</td>
-            <td>CryptoPigs</td>           
-            <td>DogePass</td>
+            <td>CryptoPigs</td>   
             <td>FunkiFoxes</td>
         </tr>
     </thead>
@@ -63,10 +62,8 @@
 <table>
     <thead align="center">
         <tr>
-            <td>IgarataArtNFT</td>
-            <td>RabbitNFT</td>
+          
             <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
         </tr>
     </thead>
     <tr>
